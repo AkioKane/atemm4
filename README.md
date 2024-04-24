@@ -31,9 +31,7 @@
 ---
 ### ⚒️Languages and Tools:
 <div class="icons">
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,bash,sqlite&perline=7" align="center"/>
-    <img src="https://skillicons.dev/icons?i=linux,githubactions,django,git&perline=7" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm&perline=7" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,bash,sqlite,linux,githubactions,django,git,vscode,pycharm&perline=7" align="center"/>
     <br>
 </div>
 
