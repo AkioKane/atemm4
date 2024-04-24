@@ -1,7 +1,7 @@
 <div class="header" align="center">
     <img width="600"src="assets/github-snake.svg" alt="snake"/>
     <div class="badges">
-        <a href="https://youtube.com/@Motzey">
+        <a href="https://t.me/AkioKane">
             <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
         </a>
         <a href="https://youtube.com/@Motzey">
