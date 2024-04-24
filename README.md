@@ -1,10 +1,10 @@
 <div class="header" align="center">
     <img width="600"src="assets/github-snake.svg" alt="snake"/>
     <div class="badges">
-        <a href="https://t.me/AkioKane">
+        <a href="https://t.me/AkioKane" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
         </a>
-        <a href="https://youtube.com/@Motzey">
+        <a href="https://youtube.com/@Motzey" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube"/>
         </a>
         <img src="https://komarev.com/ghpvc/?username=atemm4&style=flat-square&color=blue" alt=""/>
